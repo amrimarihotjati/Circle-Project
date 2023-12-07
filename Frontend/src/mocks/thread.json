@@ -1,0 +1,122 @@
+[
+    {
+        "id":1,
+        "author_picture": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&q=80&w=1287&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "author_name":"Amri Marihot Jati",
+        "author_username":"@Marihots",
+        "posted_at":"4h",
+        "content": "Whaatss this is!",
+        "image": "image.png",
+        "likes_count": 4,
+        "replies_count": 12,
+        "is_liked": false 
+    },
+    {
+        "id":2,
+        "author_picture": "https://images.unsplash.com/photo-1513682121497-80211f36a7d3?auto=format&fit=crop&q=80&w=1288&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "author_name":"Danss",
+        "author_username":"@Danss",
+        "posted_at":"4h",
+        "content": "Looreeemsss",
+        "image": "image.png",
+        "likes_count": 4,
+        "replies_count": 12,
+        "is_liked": false 
+    },
+    {
+        "id":3,
+        "author_picture": "https://images.unsplash.com/photo-1488161628813-04466f872be2?auto=format&fit=crop&q=80&w=1364&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "author_name":"Nauvalsev Jati",
+        "author_username":"@Valsev",
+        "posted_at":"4h",
+        "content": "Setidaknya selesai",
+        "image": "image.png",
+        "likes_count": 4,
+        "replies_count": 12,
+        "is_liked": false 
+    },
+    {
+        "id": 4,
+        "author_picture": "https://images.unsplash.com/photo-1513682121497-80211f36a7d3?auto=format&fit=crop&q=80&w=1288&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "author_name": "Siti Rahma",
+        "author_username": "@SitiRahma",
+        "posted_at": "3h",
+        "content": "Beautiful sunset view! 🌅",
+        "image": "image.png",
+        "likes_count": 8,
+        "replies_count": 20,
+        "is_liked": false
+    },
+    {
+        "id": 5,
+        "author_picture": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&q=80&w=1287&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "author_name": "John Smith",
+        "author_username": "@JohnSmith",
+        "posted_at": "2h",
+        "content": "Exploring the great outdoors! 🏞️",
+        "image": "image.png",
+        "likes_count": 10,
+        "replies_count": 15,
+        "is_liked": false
+    },
+    {
+        "id": 6,
+        "author_picture": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&q=80&w=1287&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "author_name": "Eva Johnson",
+        "author_username": "@EvaJohnson",
+        "posted_at": "2h",
+        "content": "Sunshine and happiness! ☀️😄",
+        "image": "image.png",
+        "likes_count": 12,
+        "replies_count": 18,
+        "is_liked": false
+    },
+    {
+        "id": 7,
+        "author_picture": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&q=80&w=1287&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "author_name": "Liam Miller",
+        "author_username": "@LiamMiller",
+        "posted_at": "1h",
+        "content": "Enjoying a cup of coffee in the morning! ☕",
+        "image": "image.png",
+        "likes_count": 15,
+        "replies_count": 25,
+        "is_liked": false
+    },
+    {
+        "id": 8,
+        "author_picture": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&q=80&w=1287&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "author_name": "Sophia Turner",
+        "author_username": "@SophiaTurner",
+        "posted_at": "1h",
+        "content": "City lights at night! 🌃✨",
+        "image": "image.png",
+        "likes_count": 18,
+        "replies_count": 30,
+        "is_liked": false
+    },
+    {
+        "id": 9,
+        "author_picture": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&q=80&w=1287&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "author_name": "Mia Robinson",
+        "author_username": "@MiaRobinson",
+        "posted_at": "1h",
+        "content": "Nature's beauty in full bloom! 🌸🍃",
+        "image": "image.png",
+        "likes_count": 20,
+        "replies_count": 35,
+        "is_liked": false
+    },
+    {
+        "id": 10,
+        "author_picture": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&q=80&w=1287&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "author_name": "Alex Turner",
+        "author_username": "@AlexTurner",
+        "posted_at": "30m",
+        "content": "Just another day at the beach! 🏖️🌞",
+        "image": "image.png",
+        "likes_count": 5,
+        "replies_count": 10,
+        "is_liked": false
+    }
+]
